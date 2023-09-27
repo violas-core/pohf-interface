@@ -13,8 +13,8 @@
 
 ## 目录结构
 ```
-├── contract_internal.md     //合约地址
-├── contracts                //合约接口(部分)说明solidity
+├── contract_internal.md        //合约地址
+├── contracts                   //合约接口(部分)说明solidity
 │   └── interface
 │       ├── IERC721EnumerableUpgradeable.sol
 │       ├── IPOHFBase.sol
@@ -22,7 +22,7 @@
 │       ├── IPOHFModel.sol
 │       ├── IPOHFTask.sol
 │       └── IPOHFUser.sol
-├── javas                    //合约java接口
+├── javas                       //合约java接口
 │   └── pohf
 │       └── com
 │           ├── POHFDns.java    //合约DNS
